@@ -14,6 +14,11 @@ This project aims to analyze and compare the predictive performance of various s
 **Naïve Bayes
 * Assess models using metrics like Accuracy, Precision, Recall, F1 Score, and ROC-AUC.
 * Visualize market trends and classification results.
+## Model Outputs & Visualizations
+![Picture38](https://github.com/user-attachments/assets/fcfdccb5-223d-40e7-86f7-ce4347c190d7)
+![Picture38](https://github.com/user-attachments/assets/fcfdccb5-223d-40e7-86f7-ce4347c190d7)
+
+
 
 ## Data Sources
 * BSE India
