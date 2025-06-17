@@ -1,6 +1,7 @@
 # NTCC Summer Internship
 # Relative_Performance_Comparison_of_Different_Supervised_Learning_Classification_Algorithms
 ![6240057](https://github.com/user-attachments/assets/cff9e5ed-baad-4287-a5a5-be6a01e3ff31)
+## Overview
 This project aims to analyze and compare the predictive performance of various supervised learning classification algorithms using real-world financial and economic data. Stock prices, trading volumes, and exchange rates were sourced from reliable platforms like BSE, NSE, Bloomberg, RBI, Investing.com, and CMIE. The analysis was carried out using Python and includes feature engineering, model training, evaluation, and visualization.
 
 ## Objectives
