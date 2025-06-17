@@ -44,11 +44,11 @@ The following were plotted for stock analysis and model evaluation:
 * Python
 * Jupyter Notebook
 * Libraries:
-** pandas
-** numpy
-** scikit-learn
-** matplotlib
-** seaborn
+   pandas
+   numpy
+   scikit-learn
+   matplotlib
+   seaborn
 
 ## Key Insights
 * Random Forest was the most reliable for real-world financial forecasting.
