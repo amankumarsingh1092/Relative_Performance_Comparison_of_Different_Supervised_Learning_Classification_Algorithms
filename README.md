@@ -20,7 +20,6 @@ This project aims to analyze and compare the predictive performance of various s
 * NSE India
 * RBI Exchange Rate Archive
 * Bloomberg Terminal
-* Investing.com
 * CMIE India
 
 ## Machine Learning Models
@@ -45,9 +44,11 @@ The following were plotted for stock analysis and model evaluation:
 * Python
 * Jupyter Notebook
 * Libraries:
-** pandas, numpy, scikit-learn
-** matplotlib, seaborn
-** datetime, os, warnings
+** pandas
+** numpy
+** scikit-learn
+** matplotlib
+** seaborn
 
 ## Key Insights
 * Random Forest was the most reliable for real-world financial forecasting.
