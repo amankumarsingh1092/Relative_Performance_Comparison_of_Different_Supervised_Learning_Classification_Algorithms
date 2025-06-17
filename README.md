@@ -44,10 +44,10 @@ The following were plotted for stock analysis and model evaluation:
 * Python
 * Jupyter Notebook
 * Libraries:
-   pandas
-   numpy
-   scikit-learn
-   matplotlib
+   pandas,
+   numpy,
+   scikit-learn,
+   matplotlib,
    seaborn
 
 ## Key Insights
