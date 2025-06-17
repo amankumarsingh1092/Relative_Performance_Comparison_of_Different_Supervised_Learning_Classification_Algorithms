@@ -16,7 +16,14 @@ This project aims to analyze and compare the predictive performance of various s
 * Visualize market trends and classification results.
 ## Model Outputs & Visualizations
 ![Picture38](https://github.com/user-attachments/assets/fcfdccb5-223d-40e7-86f7-ce4347c190d7)
-![Picture38](https://github.com/user-attachments/assets/fcfdccb5-223d-40e7-86f7-ce4347c190d7)
+![Picture39](https://github.com/user-attachments/assets/194019fe-a8b7-4883-a56e-b34020e3941f)
+![Picture40](https://github.com/user-attachments/assets/10a8d0f0-bd6f-44c7-9de2-9e7b05bab6a7)
+![Picture41](https://github.com/user-attachments/assets/a0a5069d-b199-4aaa-b2f6-6d63c6f2d201)
+![Picture42](https://github.com/user-attachments/assets/5409dae9-5eb8-4e42-bea3-ce517f00b4c6)
+![Picture43](https://github.com/user-attachments/assets/78634186-9b16-4848-a4f9-6c0cc1a431d7)
+![Picture44](https://github.com/user-attachments/assets/bb632498-1ba0-40b6-af45-ed23434e6bc9)
+
+
 
 
 
