@@ -73,6 +73,7 @@ The following were plotted for stock analysis and model evaluation:
 * Patel, J., et al. (2015). Predicting Stock Movement Using Technical Indicators.
 * Huang, W., et al. (2005). Stock Forecasting using SVM.
 * Dash, M., & Dash, P. (2016). ML for Stock Market Trend Prediction.
+  
 ## Author
 * Aman Kumar Singh
 * www.linkedin.com/in/aman-kumar-singh-71a090206
